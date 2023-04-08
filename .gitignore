@@ -12,6 +12,7 @@ tramp
 /ext/
 url
 server
+history
 
 # Org-mode
 .org-id-locations
